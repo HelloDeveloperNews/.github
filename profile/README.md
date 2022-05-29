@@ -11,11 +11,11 @@ Hello Developers News Team입니다.
 
 ### Journalists of HDN
 
-|```Back-End``` 정민찬|```Front-End``` 김유경|
-|:-:|:-:|
-|<img src="https://user-images.githubusercontent.com/52199223/170830320-24ce176b-1a5f-442e-a22f-0a0d94993d70.png" width=130>|<img src="https://user-images.githubusercontent.com/52199223/170830343-578d3377-17de-4401-b368-2b922e42967d.png" width=130>|
-|[@HelloMinchan](https://github.com/hellominchan)|[@HelloYukyung](https://github.com/HelloYukyung)|
-|fooiy|WePlanet|
+|```Back-End``` 정민찬|```Front-End``` 김유경|```Data``` 송현주|
+|:-:|:-:|:-:|
+|<img src="https://user-images.githubusercontent.com/52199223/170830320-24ce176b-1a5f-442e-a22f-0a0d94993d70.png" width=130>|<img src="https://user-images.githubusercontent.com/52199223/170830343-578d3377-17de-4401-b368-2b922e42967d.png" width=130>|<img src="https://user-images.githubusercontent.com/52199223/170855610-f58e91e0-db43-41ea-8912-29b92f6cf379.png" width=130>|
+|[@HelloMinchan](https://github.com/hellominchan)|[@HelloYukyung](https://github.com/HelloYukyung)|[@hyunju-song](https://github.com/hyunju-song)|
+|fooiy|WePlanet|정육각|
 
 ----
 
