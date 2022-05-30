@@ -1,9 +1,9 @@
-<img src="https://user-images.githubusercontent.com/52199223/170829303-90a9f989-eb2a-4a88-a726-a657eaa2e47e.png" width="300" height="300"/>
+<img src="https://user-images.githubusercontent.com/52199223/170936992-62447f13-2442-4ecb-8799-9f522cc0b237.png" width="300" height="300"/>
 
-## HDN, Hello Developers News
+## HDN, Hello Developer News
 
 ### 안녕하세요! 👋  
-Hello Developers News Team입니다.
+Hello Developer News Team입니다.
 
 ### 무엇을 하고 있나요?
 저희는 개발 관련 글을 기고하고 영어로 작성된 기술 아티클을 번역하여 공유하고 있어요.  
