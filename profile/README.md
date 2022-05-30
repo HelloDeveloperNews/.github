@@ -10,13 +10,11 @@ Hello Developer News Team입니다.
 공부한 지식을 정리하여 주위에 전파하고, 영어로 작성된 문서를 번역함으로써 함께하는 성장을 목표로 하고 있어요.
 
 ### Journalists of HDN
-
-
-|```Back-End``` 정민찬|```Front-End``` 김유경|```Data``` 송현주|```Back-End``` 권영훈|
+|```Back-End``` 정민찬|```Data``` 송현주|```Back-End``` 권영훈|```Back-End``` 민경남|
 |:-:|:-:|:-:|:-:|
-|<img src="https://user-images.githubusercontent.com/52199223/170830320-24ce176b-1a5f-442e-a22f-0a0d94993d70.png" width=130>|<img src="https://user-images.githubusercontent.com/52199223/170830343-578d3377-17de-4401-b368-2b922e42967d.png" width=130>|<img src="https://user-images.githubusercontent.com/52199223/170855610-f58e91e0-db43-41ea-8912-29b92f6cf379.png" width=130>|<img src="https://user-images.githubusercontent.com/52199223/170855742-beb70f1a-692f-4814-ab9b-09ec60293290.png" width=130>|
-|[@HelloMinchan](https://github.com/hellominchan)|[@HelloYukyung](https://github.com/HelloYukyung)|[@hyunju-song](https://github.com/hyunju-song)|[@Hooooni98](https://github.com/Hooooni98)|
-|fooiy|WePlanet|정육각|fooiy|
+|<img src="https://user-images.githubusercontent.com/52199223/170830320-24ce176b-1a5f-442e-a22f-0a0d94993d70.png" width=130>|<img src="https://user-images.githubusercontent.com/52199223/170855610-f58e91e0-db43-41ea-8912-29b92f6cf379.png" width=130>|<img src="https://user-images.githubusercontent.com/52199223/170855742-beb70f1a-692f-4814-ab9b-09ec60293290.png" width=130>|<img src="https://user-images.githubusercontent.com/52199223/171003906-3b523a6d-cdd6-4853-8867-303d854bcae6.png" width=130>
+|[@HelloMinchan](https://github.com/hellominchan)|[@hyunju-song](https://github.com/hyunju-song)|[@Hooooni98](https://github.com/Hooooni98)|[@KyoungnamMin](https://github.com/KyoungnamMin)|
+|fooiy|정육각|fooiy|Lunit|
 
 ----
 
