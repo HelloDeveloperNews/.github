@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/52199223/170936992-62447f13-2442-4ecb-8799-9f522cc0b237.png" width="300" height="300"/>
+<img src="https://user-images.githubusercontent.com/52199223/170940008-27f328d5-b5a4-4b3e-81e1-5fef81a4a59d.png" width="300" height="300"/>
 
 ## HDN, Hello Developer News
 
