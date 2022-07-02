@@ -23,3 +23,6 @@ Hello Developer News Team입니다.
 만약, 팀에 참여하고 싶다면 아래 메일로 연락 주세요. 😁
 
 👉 minchance98@gmail.com
+
+#### 구독하고 싶다면?
+👉 https://hellodevelopernews.substack.com/
