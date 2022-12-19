@@ -14,7 +14,7 @@ Hello Developer News Team입니다.
 |:-:|:-:|:-:|:-:|
 |<img src="https://user-images.githubusercontent.com/52199223/170830320-24ce176b-1a5f-442e-a22f-0a0d94993d70.png" width=130>|<img src="https://user-images.githubusercontent.com/52199223/170855610-f58e91e0-db43-41ea-8912-29b92f6cf379.png" width=130>|<img src="https://user-images.githubusercontent.com/52199223/170855742-beb70f1a-692f-4814-ab9b-09ec60293290.png" width=130>|<img src="https://user-images.githubusercontent.com/52199223/171003906-3b523a6d-cdd6-4853-8867-303d854bcae6.png" width=130>
 |[@HelloMinchan](https://github.com/hellominchan)|[@hyunju-song](https://github.com/hyunju-song)|[@Hooooni98](https://github.com/Hooooni98)|[@KyoungnamMin](https://github.com/KyoungnamMin)|
-|fooiy|정육각|fooiy|Lunit|
+|fooiy|finda|fooiy|Lunit|
 
 ----
 
